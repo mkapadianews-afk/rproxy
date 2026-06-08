@@ -1,0 +1,18 @@
+{
+  "name": "Rproxy v7.0.0",
+  "description": "Rproxy is a secure web proxy service supporting numerous sites while concentrating on detail with design, mechanics, and features. Bypass web filters regardless of whether it is an extension or network-based.",
+  "repository": "https://github.com/QuiteAFancyEmerald/Rproxy",
+  "logo": "https://raw.githubusercontent.com/QuiteAFancyEmerald/Rproxy/master/views/assets/img/icon.png",
+  "keywords": [
+    "rproxy",
+    "holyunblocker",
+    "scramjet",
+    "ultraviolet",
+    "titaniumnetwork",
+    "node",
+    "proxy",
+    "unblocker",
+    "webproxy",
+    "games"
+  ]
+}
